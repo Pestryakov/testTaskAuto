@@ -5,7 +5,7 @@
 ```
 ├── docs/
 │   ├── TEST_CASES.md       # 10 тест-кейсов
-│   └── BUG_REPORTS.md      # 4 баг-репорта
+│   └── BUG_REPORTS.md      # 5 баг-репорта
 ├── tests/
 │   ├── pages/
 │   │   └── todo.page.ts    # Page Object
